@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Austin!
 
 - 🎓 Graduated from the University of Guelph for Software Engineeing!
-- 🔭 I’m currently working on [Budgie, an Expense Tracker](https://github.com/Austin-FV/expense-tracker) which uses ASP.NET and MS SQL Server.
 - 🌱 I’m currently learning about the .NET ecosystem!
+- 🔭 Working on [Budgie, an Expense Tracker](https://github.com/Austin-FV/expense-tracker) which uses ASP.NET and MS SQL Server.
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/austin-fv/) or austinfv01@gmail.com!
   
 <hr />
