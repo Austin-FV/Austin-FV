@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Austin!
 
-- 🎓 Graduated in Software Engineering from the University of Guelph!
+- 🎓 Graduated in Software Engineering!
 - 🌱 I’m currently learning about Next.js!
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/austin-fv/) or austinfv01@gmail.com!
   
