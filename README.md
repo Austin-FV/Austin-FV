@@ -2,7 +2,9 @@
 
 - 🎓 Graduated in Software Engineering from the University of Guelph!
 - 🌱 I’m currently learning about Next.js!
+ <!--
 - 🔭 Working on [Quail, an AI Quiz Platform](https://github.com/Austin-FV/Quail) which uses Next.js, MySQL and OpenAI.
+ -->
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/austin-fv/) or austinfv01@gmail.com!
   
 <hr />
