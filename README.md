@@ -1,29 +1,11 @@
-### Hi there 👋, I'm Austin!
+# 👋 Hey, I'm Austin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Austin%20Varghese-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-fv/)
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-AustinFV-0098FF?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/publishers/austinfv)
 
-- 🎓 Software Engineering Graduate!
-- 🌱 I’m currently learning about Next.js!
-- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/austin-fv/) or austinfv01@gmail.com!
-  
-<hr />
+Full Stack Developer | Automation Engineer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-FV&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+🚀 Building tools that make developers faster
 
-<hr />
+Try out my VS Code Extension [here](https://marketplace.visualstudio.com/items?itemName=austinfv.gimmit)
 
-<!--
-**Austin-FV/Austin-FV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <!--
-- 🔭 Working on [Quail, an AI Quiz Platform](https://github.com/Austin-FV/Quail) which uses Next.js, MySQL and OpenAI.
- -->
+... or search up `gimmit` from the Extensions tab on VS Code!
