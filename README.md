@@ -6,6 +6,6 @@ Full Stack Developer | Automation Engineer
 
 🚀 Building tools that make developers faster
 
-Try out my VS Code Extension [here](https://marketplace.visualstudio.com/items?itemName=austinfv.gimmit)
+Try out my latest VS Code Extension [here](https://marketplace.visualstudio.com/items?itemName=austinfv.gimmit)
 
 ... or search up `gimmit` from the Extensions tab on VS Code!
