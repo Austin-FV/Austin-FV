@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Austin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-fv/)
 
-Full Stack Developer | Automation Engineer
+Full Stack Developer | SDET
 
 🌱 Developer passionate about creating, exploring, and growing with every project.
 
